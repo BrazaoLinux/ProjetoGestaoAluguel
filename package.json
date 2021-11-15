@@ -1,0 +1,27 @@
+{
+  "name": "projetogestaoaluguel",
+  "version": "1.0.0",
+  "description": "Projeto focado em gerir  os alugueis e contas de 9 casas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrazaoLinux/ProjetoGestaoAluguel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrazaoLinux/ProjetoGestaoAluguel/issues"
+  },
+  "homepage": "https://github.com/BrazaoLinux/ProjetoGestaoAluguel#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
